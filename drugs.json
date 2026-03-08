@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "drug_name": "Amoxicillin 500mg Capsules",
+    "nafdac_no": "A4-1234",
+    "manufacturer": "Emzor Pharmaceutical Industries Ltd",
+    "status": "verified",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "created_at": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "drug_name": "Paracetamol 500mg Tablets",
+    "nafdac_no": "B2-5678",
+    "manufacturer": "May & Baker Nigeria Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "created_at": "2022-06-20"
+  },
+  {
+    "id": 3,
+    "drug_name": "Metronidazole 400mg Tablets",
+    "nafdac_no": "C7-9012",
+    "manufacturer": "Fidson Healthcare Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "created_at": "2022-09-10"
+  },
+  {
+    "id": 4,
+    "drug_name": "Artemether/Lumefantrine 20/120mg",
+    "nafdac_no": "D3-3456",
+    "manufacturer": "Bliss GVS Pharma Nigeria Ltd",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "20mg/120mg",
+    "created_at": "2023-03-05"
+  },
+  {
+    "id": 5,
+    "drug_name": "Lisinopril 10mg Tablets",
+    "nafdac_no": "E1-7890",
+    "manufacturer": "Pharma Deko Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "created_at": "2022-11-18"
+  },
+  {
+    "id": 6,
+    "drug_name": "Ciprofloxacin 500mg Tablets",
+    "nafdac_no": "F5-2345",
+    "manufacturer": "Neimeth International Pharmaceuticals Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "created_at": "2023-02-14"
+  },
+  {
+    "id": 7,
+    "drug_name": "Omeprazole 20mg Capsules",
+    "nafdac_no": "G6-6789",
+    "manufacturer": "Swiss Pharma Nigeria Ltd",
+    "status": "verified",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "created_at": "2022-08-30"
+  },
+  {
+    "id": 8,
+    "drug_name": "Diclofenac 50mg Tablets",
+    "nafdac_no": "H9-0123",
+    "manufacturer": "Evans Medical Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "created_at": "2023-04-22"
+  },
+  {
+    "id": 9,
+    "drug_name": "SuperVit Multivitamin Tablets",
+    "nafdac_no": "X0-1111",
+    "manufacturer": "Unknown Source",
+    "status": "suspicious",
+    "dosage_form": "Tablet",
+    "strength": "N/A",
+    "created_at": "2024-01-01"
+  },
+  {
+    "id": 10,
+    "drug_name": "CleanFlu Capsules",
+    "nafdac_no": "Z9-9999",
+    "manufacturer": "No Registered Manufacturer",
+    "status": "suspicious",
+    "dosage_form": "Capsule",
+    "strength": "Unknown",
+    "created_at": "2024-02-14"
+  },
+  {
+    "id": 11,
+    "drug_name": "PowerBoost Energy Tablets",
+    "nafdac_no": "Y7-4567",
+    "manufacturer": "Unlicensed Facility",
+    "status": "suspicious",
+    "dosage_form": "Tablet",
+    "strength": "Unknown",
+    "created_at": "2024-03-01"
+  },
+  {
+    "id": 12,
+    "drug_name": "Metformin 500mg Tablets",
+    "nafdac_no": "A9-8888",
+    "manufacturer": "Strides Shasun Nigeria Ltd",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "created_at": "2022-12-05"
+  },
+  {
+    "id": 13,
+    "drug_name": "Amlodipine 5mg Tablets",
+    "nafdac_no": "B1-3333",
+    "manufacturer": "Chi Pharma Ltd",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "created_at": "2023-05-17"
+  },
+  {
+    "id": 14,
+    "drug_name": "Azithromycin 250mg Tablets",
+    "nafdac_no": "C4-7777",
+    "manufacturer": "Emzor Pharmaceutical Industries Ltd",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "created_at": "2023-06-28"
+  },
+  {
+    "id": 15,
+    "drug_name": "FakeHeal Herbal Mix",
+    "nafdac_no": "Q3-0000",
+    "manufacturer": "Roadside Vendor",
+    "status": "suspicious",
+    "dosage_form": "Liquid",
+    "strength": "Unknown",
+    "created_at": "2024-04-10"
+  },
+  {
+    "id": 16,
+    "drug_name": "Ibuprofen 400mg Tablets",
+    "nafdac_no": "D8-2222",
+    "manufacturer": "Pharma Deko Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "created_at": "2022-10-12"
+  },
+  {
+    "id": 17,
+    "drug_name": "Cotrimoxazole 480mg Tablets",
+    "nafdac_no": "E3-5555",
+    "manufacturer": "May & Baker Nigeria Plc",
+    "status": "verified",
+    "dosage_form": "Tablet",
+    "strength": "480mg",
+    "created_at": "2023-07-19"
+  },
+  {
+    "id": 18,
+    "drug_name": "NaijaBoost Immunity Capsules",
+    "nafdac_no": "W2-6666",
+    "manufacturer": "Unverified Distributor",
+    "status": "suspicious",
+    "dosage_form": "Capsule",
+    "strength": "Unknown",
+    "created_at": "2024-05-01"
+  }
+]
